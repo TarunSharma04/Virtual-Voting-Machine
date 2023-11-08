@@ -1,0 +1,7 @@
+Hello, Hi, Namaste! User hope you are doing good.
+Since you're reading this you might want to know a little about this project, So Let me tell you the code for the project was developed by the CYBERSQUAD i.e. TARUN, AMAN GIRI and AMAN DANG. We took help from the internet to make this project and we have learnt so much during the development process.
+For more Information about the project you can just look into the project report.
+Have A good day.
+
+Virtual Voting Machine is a project coded in the C programming language which ensures a fair Election within a small group or class. The project gives us the understanding of the various file operations which include writing, reading, modifying etc. The project also gives us the understanding of functions and using various pre-defined functions in the C programming Language.
+The project contains a main menu which allows the user to choose their designation i.e. Admin or the student, The students are only able to vote whereas the admin can login and can initiate a new election or can continue the election which was previously stopped or halted for some reason. The menu also contains the information about the project.
